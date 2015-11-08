@@ -12,7 +12,7 @@ Cílem tohoto cvičení je podívat se na to, jak vypadají a jak se používaj�
 	
 	![](Images/lab01-1.png)
 	
-1. Do políčka vyhledávání napište **napa** a potvrďte.
+1. Do políčka vyhledávání napište `napa` a potvrďte.
 1. Portál najde aplikaci **"Napa" Office 365 Development Tools**.
 
 	![](Images/lab01-2.png)
@@ -34,7 +34,7 @@ Cílem tohoto cvičení je podívat se na to, jak vypadají a jak se používaj�
 
 	![](Images/lab01-5.png)
 
-1. Přesměruje vás na napacloudapp.com, ale zachová si povědomí o kontextu SharePointu.
+1. Přesměruje vás na *napacloudapp.com*, ale zachová si povědomí o kontextu SharePointu.
 
 	![](Images/lab01-6.png)
 
