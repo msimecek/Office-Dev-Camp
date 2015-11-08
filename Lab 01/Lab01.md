@@ -38,7 +38,7 @@ Cílem tohoto cvičení je podívat se na to, jak vypadají a jak se používaj�
 
 	![](Images/lab01-6.png)
 
-	Aplikaci Napa jsme neinstalovali náhodou, slouží totiž jako webové vývojové prostředí pro aplikace Office. Můžete tak jednoduše programovat i bez Visual Studia. Určitě ji prozkoumejte.
+> Aplikaci Napa jsme neinstalovali náhodou, slouží totiž jako webové vývojové prostředí pro aplikace Office. Můžete tak jednoduše programovat i bez Visual Studia. Určitě ji prozkoumejte.
 
 ## Word
 
