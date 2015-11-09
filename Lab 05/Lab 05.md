@@ -16,7 +16,7 @@ Visual Studio vytvoří Solution s dvěma projekty: Office app s manifestem a we
 
 ![](Images/lab05_02.png)
 
-asdsdad
+Základní šablona obsahuje tlačítko, které přečte, co je zrovna v sešitu označeno, a zobrazí to. My vytvoříme o málo složitější funkcionalitu.
 
 1. Otevřete soubor **Home.html** a nahraďte obsah `<body> ... </body>` tímto HTML:
 
