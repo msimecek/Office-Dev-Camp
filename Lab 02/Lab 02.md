@@ -17,7 +17,7 @@ V tomto cvičení vytvoříme jednoduchou Provider-Hosted aplikaci, jejíž sou�
 1. Vyberte **ASP.NET MVC Web Application** a pokračujte **Next >**.
 1. Ponechte nastavení **Use Windows Azure Access Control Service** a ukončete průvodce **Finish**.
 
-Visual Studio nyní vytvoří SOlution s dvěma projekty - aplikací pro SharePoint a webem.
+Visual Studio nyní vytvoří Solution s dvěma projekty: aplikací pro SharePoint a webem.
 
 ![](Images/lab02-02.png)
 
